@@ -52,8 +52,6 @@ The workflow contains four main components:
 - `Customer ID`
 - `Country`
 
-> ⚠️ Column names with spaces (e.g. `"Customer ID"`) must be wrapped in double quotes.
-
 ---
 
 ## 💡 Example Questions
