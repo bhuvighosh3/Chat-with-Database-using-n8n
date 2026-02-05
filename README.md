@@ -36,7 +36,7 @@ The workflow contains four main components:
 
 ---
 
-## 🗄️ Database Structure
+## 🗄️ Database Structure:
 
 **Database:** `retaildb`
 
@@ -56,7 +56,7 @@ The workflow contains four main components:
 
 ---
 
-## 💡 Example Questions
+## 💡 Example Questions:
 
 Try asking the chat agent:
 
@@ -67,7 +67,7 @@ Try asking the chat agent:
 
 ---
 
-## ⚙️ Setup & Usage
+## ⚙️ Setup & Usage:
 
 1. Run **n8n** using Docker or locally.
 2. Configure the **PostgreSQL credentials** in the Postgres node.
