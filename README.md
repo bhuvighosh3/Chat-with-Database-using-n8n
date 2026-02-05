@@ -18,6 +18,8 @@ Users can ask natural-language questions in chat, and the AI Agent converts them
 
 ## 🧩 Workflow Overview:
 
+![Workflow Diagram](images/Workflow.png)
+
 The workflow contains four main components:
 
 1. **💬 When Chat Message Received**  
