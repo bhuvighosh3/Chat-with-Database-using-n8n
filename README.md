@@ -18,7 +18,7 @@ Users can ask natural-language questions in chat, and the AI Agent converts them
 
 ## 🧩 Workflow Overview:
 
-Demo Link: [Link](https://drive.google.com/drive/u/1/folders/1Ibv6qIR0p0d3r59r9ePTQ8ezSdGK4bMJ)
+Demo Link: [Watch now](https://drive.google.com/drive/u/1/folders/1Ibv6qIR0p0d3r59r9ePTQ8ezSdGK4bMJ)
 
 ![Workflow Diagram](images/Workflow.png)
 
