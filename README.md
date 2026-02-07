@@ -24,16 +24,16 @@ Demo Link: [Watch now](https://drive.google.com/drive/u/1/folders/1Ibv6qIR0p0d3r
 
 The workflow contains four main components:
 
-1. **💬 When Chat Message Received**  
+1. **💬 When Chat Message Received:**  
    Triggers the workflow whenever a user sends a message in chat.
 
-2. **🧠 AI Agent**  
+2. **🧠 AI Agent:**  
    Interprets the user’s question, decides whether a database query is needed, and orchestrates the response.
 
-3. **🤖 Groq Chat Model**  
+3. **🤖 Groq Chat Model:**  
    Acts as the LLM backend for reasoning and SQL generation.
 
-4. **🐘 PostgreSQL (executeQuery)**  
+4. **🐘 PostgreSQL (executeQuery):**  
    Executes AI-generated SQL queries and returns results to the agent.
 
 ---
